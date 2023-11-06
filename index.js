@@ -5,3 +5,9 @@ function number(min, max) {
   }
   const randomNumber=number(3,100);
   console.log(randomNumber);
+
+
+
+  let x =Math.floor((Math.random() * 6 ) + 1 ); 
+  
+  console.log(x);
