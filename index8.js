@@ -1,3 +1,5 @@
+// destructuring object
+
 const user ={
     id:3432222,
     name:"nazmul",
